@@ -9,7 +9,7 @@ import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class TestExample {
+class TestExample {
     // Shared between all tests in this class.
     static Playwright playwright;
     static Browser browser;
